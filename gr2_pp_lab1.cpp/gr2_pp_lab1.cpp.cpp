@@ -3,12 +3,9 @@
 using namespace std;
 int main()
 {
-	printf("       *     \n");
-	printf("      * *    \n");
-	printf("     *   *    \n");
-	printf("* * *      * * *\n");
-	printf(" *            *\n");
-	printf("   *        * \n");
-	printf("  *    *    *\n");
-	printf(" * *      *  * \n");
+	printf("X  X  XXXXX \n");
+	printf("X  X  X    X \n");
+	printf("XXXX  X    X \n");
+	printf("X  X  X    X \n");
+	printf("X  X  XXXXX \n");
 }
