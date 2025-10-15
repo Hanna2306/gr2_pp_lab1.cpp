@@ -3,9 +3,13 @@
 using namespace std;
 int main()
 {
-	printf("X  X  XXXXX \n");
-	printf("X  X  X    X \n");
-	printf("XXXX  X    X \n");
-	printf("X  X  X    X \n");
-	printf("X  X  XXXXX \n");
+	printf("|   LISTA OBECNOŒCI   |\n");
+	printf("------------------- \n");
+	printf("| NR | IMIE | NAZWISKO| \n ");
+	printf("----------------------- \n");
+	printf("| 1  | ADA  | KOWAL   | \n");
+	printf("----------------------- \n");
+	printf("| 2  | IDA  | MRÓZ    | \n");
+	printf("----------------------- \n");
+	printf("| 1  | XDA  | XXXXX   | \n");
 }
