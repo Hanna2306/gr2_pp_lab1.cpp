@@ -3,13 +3,12 @@
 using namespace std;
 int main()
 {
-	printf("|   LISTA OBECNOŒCI   |\n");
-	printf("------------------- \n");
-	printf("| NR | IMIE | NAZWISKO| \n ");
-	printf("----------------------- \n");
-	printf("| 1  | ADA  | KOWAL   | \n");
-	printf("----------------------- \n");
-	printf("| 2  | IDA  | MRÓZ    | \n");
-	printf("----------------------- \n");
-	printf("| 1  | XDA  | XXXXX   | \n");
+	int a, b, c;
+	scanf_s("%d", &a);
+	scanf_s("%d", &b);
+	c = a + b;
+	printf("Wynik z dodawania a i b %d", c);
+	cout << endl;
+		c = a * b;
+		printf("Wynik z mno¿enia a i b %d", c);
 }
