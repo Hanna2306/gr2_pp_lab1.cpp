@@ -3,12 +3,14 @@
 using namespace std;
 int main()
 {
-	int a, b, c;
+	float a;
+	float b;
+	float c;
 	scanf_s("%d", &a);
 	scanf_s("%d", &b);
 	c = a + b;
 	printf("Wynik z dodawania a i b %d", c);
 	cout << endl;
 		c = a * b;
-		printf("Wynik z mno¿enia a i b %d", c);
+	printf("Wynik z mnozenia a i b %d", c);
 }
