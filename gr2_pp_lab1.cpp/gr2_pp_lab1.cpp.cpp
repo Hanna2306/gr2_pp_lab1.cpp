@@ -3,14 +3,29 @@
 using namespace std;
 int main()
 {
-	float a;
-	float b;
-	float c;
-	scanf_s("%d", &a);
-	scanf_s("%d", &b);
+	//zadanie 4b
+	/*float a, b, c;;
+	cin >> a;
+	cin >> b;
 	c = a + b;
-	printf("Wynik z dodawania a i b %d", c);
+	cout << "Wynik z dodawania a i b " << c;
 	cout << endl;
 		c = a * b;
-	printf("Wynik z mnozenia a i b %d", c);
+		cout << "Wynik z mnozenia a i b " << c;*/
+
+	//zadanie 5
+
+
+	/*int f;
+	cout << "Podaj temperature w stopniach Fahrenheita: ";
+	cin >> f;
+	int c;
+	c = 5 *(f - 32) / 9;
+	cout << f << " stopni Fahrenheita to " << c << " stopni Celsjusza" << endl;
+	//spodziewany wynik dla f = 20 to c = ?6*/
+
+
+
+
+	return 0;
 }
